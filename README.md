@@ -1,10 +1,12 @@
-### Not not up to no good.
+### Not not up to no good
 
-###  Studying Mechanical and Aeronautical Engineering
+I'm currently learning Rust for robotic control and Julia for space mission awareness.
+
+### Mechanical and Aeronautical Engineer
 
 ### Keen on robots, cyber-prosthetics and satellites.
 
-### Currently not doing anything illegal.
+### Currently obsessed with open-source contributions and minmaxing leetcode.
 
 <!--
 **musbahi-git/musbahi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
