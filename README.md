@@ -1,10 +1,10 @@
 ### Not not up to no good.
 
-##  Studying Mechanical and Aeronautical Engineering
+###  Studying Mechanical and Aeronautical Engineering
 
-## Keen on robots, cyber-prosthetics and satellites.
+### Keen on robots, cyber-prosthetics and satellites.
 
-## Currently not doing anything illegal.
+### Currently not doing anything illegal.
 
 <!--
 **musbahi-git/musbahi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
